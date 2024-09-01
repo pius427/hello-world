@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head><div>
+    About
+</div>
+<div>Meet Pius. His dream? To uplift his family and community back in Nigeria. Each morning, Pius rises with the sun. His home is humble, but his aspirations are vast. He fills his day with purpose.
+He tends the fields, gathers yams, assists at his mother's store, and tackles odd jobs. It's all for his family. They make ends meet. Electricity is sparse, and internet access is a luxury, not a given.
+The journey to university is an odyssey, a 50-minute motorbike ride each way. Yet, Pius sees this not as a burden but a stepping stone towards a brighter future. Driven by a burning desire to change his circumstances. Pius contacted me. He believes that software engineering and computer science could be his golden ticket. Moved by his determination. I saw an opportunity to pay it forera, is begin his de outin in puse seal orde piese and clane had thy he saying er alone intered dead opens it po Set ice d tornat</div>
+<body>
+    contact INFO<i class="fa fa-info-circle" aria-hidden="true"></i>
+    <p>meet Pius </p>
+    <div> 
+        intered<div> <p2>Location</p2></div>
+           <input type="text" name="Location" id="Location" value="" /> <div> <p2>Email</p2></div>
+             <input type="email" name="Email" id="Email" value="" />   <div> <p2>Phone</p2></div>
+               <input type="number" name="Phone" id="Phone" value="" />     <div> <p2>Social </div>
+        <div><input type="checkbox" name="linkedIN" id="linkedIN">linkedIN</div>
+    </p2>
+    <p2></p2>
+
+    </div>
+</body>
+</html>
